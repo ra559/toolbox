@@ -1,0 +1,54 @@
+{
+    "tools":[
+        {
+            "id":"001",
+            "name": "Email Toolbox",
+            "description": "A lightweight collection of browser-based utilities for everyday email and data-processing tasks.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/email_toolbox/"
+        },
+        {
+            "id":"002", 
+            "name": "Cheat Sheets",
+            "description": "A static site. Eighteen cheat sheets are written as Markdown in docs/markdown/ and rendered by Jekyll to /html/<name>.html; the homepage lists every sheet and highlights the four most recently added.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/linux_cheat_sheets/"
+        },
+        {
+            "id":"003",
+            "name": "Cinder",
+            "description": "Cinder is a small, standalone front-end code playground: write HTML, CSS and JavaScript in three editors, run the result in a sandboxed live preview, and read console output and runtime errors beside it.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/cinder/"
+        },
+        {
+            "id":"004",
+            "name": "Lorem",
+            "description": "A simple, lightweight, browser-based Lorem Ipsum generator built with HTML5, CSS3, and vanilla JavaScript.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/lorem/"
+        },
+        {
+            "id":"005",
+            "name": "Quoted-Printable Decoder",
+            "description": "A lightweight, browser-based tool for decoding Quoted-Printable encoded email content and rendering the resulting HTML.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/quoted-printable/"
+        },
+        {
+            "id":"006",
+            "name": "Linux Nav",
+            "description": "An interactive educational web application designed to teach Linux filesystem navigation through a visual apartment-complex metaphor.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/linux-nav/"
+        },
+        {
+            "id":"007",
+            "name": "Liquid Prettier",
+            "description": "A lightweight, browser-based Liquid template beautifier and formatter with specialized support for Braze Liquid tags and personalization syntax.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/liquid-prettier/"
+        }
+
+    ]
+}
