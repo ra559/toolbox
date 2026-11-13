@@ -48,6 +48,13 @@
             "description": "A lightweight, browser-based Liquid template beautifier and formatter with specialized support for Braze Liquid tags and personalization syntax.",
             "version": "1.0.0",
             "url":"https://ra559.github.io/liquid-prettier/"
+        },
+        {
+            "id":"008",
+            "name": "Online Sticky Notes",
+            "description": "A lightweight, browser-based sticky notes application. Local Only. No sign-in required. Notes are saved in the browser's local storage.",
+            "version": "1.0.0",
+            "url":"https://ra559.github.io/cork_board/"
         }
 
     ]
